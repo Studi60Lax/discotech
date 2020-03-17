@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: Discotech
+date: 2020-03-17 05:32:04 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -75,6 +75,13 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: navigation-header-w-button
+  block: header-2
+  logo: ''
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
 
 ---
 foo bar
